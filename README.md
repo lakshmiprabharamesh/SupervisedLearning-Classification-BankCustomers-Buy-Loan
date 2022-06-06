@@ -1,4 +1,4 @@
-# SupervisedLearning-Classification-BankCustomers-Buy-Loan
+# SupervisedLearning-Classification-LogisticRegression-DecisionTree-BankCustomers-Buy-Loan
 
 Description
 Background and Context
